@@ -1,4 +1,8 @@
-# ��️ Gym Manager - GYM_LOBO
+#️ Gym Manager - GYM_LOBO
+
+<div align="center">
+  <img src="lobo.png" alt="Logo GYM_LOBO" width="200">
+</div>
 
 Sistema de gestión de socios para gimnasio desarrollado en Flutter. Permite administrar miembros, registrar pagos, gestionar cuotas y visualizar estadísticas en tiempo real con un dashboard completo.
 
